@@ -26,4 +26,148 @@
   <channel id="France24.fr"><display-name>France 24 FR</display-name></channel>
   <channel id="RaiNews24.it"><display-name>Rai News 24</display-name></channel>
   <channel id="Suspilne.ua"><display-name>Suspilne News</display-name></channel>
-  <channel id="NHKWorld.jp"><display-name>NHK World Japan</display-name>
+  <channel id="NHKWorld.jp"><display-name>NHK World Japan</display-name></channel>
+
+  <channel id="WWOZ.us"><display-name>WWOZ</display-name></channel>
+  <channel id="Relix.us"><display-name>Relix Channel</display-name></channel>
+
+  <!-- ========================= -->
+  <!-- PROGRAM GUIDE (ROLLING)   -->
+  <!-- ========================= -->
+
+  <!-- Template: 2-hour blocks for each channel -->
+  <!-- Times are UTC; MyIPTV Player converts automatically -->
+
+  <!-- ABC News Live -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="ABCNewsLive.us">
+    <title>Live News</title>
+    <desc>Rolling news coverage.</desc>
+  </programme>
+  <programme start="20260213140000 +0000" stop="20260213160000 +0000" channel="ABCNewsLive.us">
+    <title>Live News</title>
+    <desc>Breaking stories and live reports.</desc>
+  </programme>
+
+  <!-- CBS News -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="CBSNews.us">
+    <title>News Update</title>
+    <desc>Top national and international headlines.</desc>
+  </programme>
+  <programme start="20260213140000 +0000" stop="20260213160000 +0000" channel="CBSNews.us">
+    <title>News Update</title>
+    <desc>Continuing coverage and analysis.</desc>
+  </programme>
+
+  <!-- NBC News Now -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="NBCNewsNow.us">
+    <title>News Now</title>
+    <desc>Live news and developing stories.</desc>
+  </programme>
+  <programme start="20260213140000 +0000" stop="20260213160000 +0000" channel="NBCNewsNow.us">
+    <title>News Now</title>
+    <desc>In-depth reporting and interviews.</desc>
+  </programme>
+
+  <!-- Scripps News -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="ScrippsNews.us">
+    <title>Headline News</title>
+    <desc>National news and live updates.</desc>
+  </programme>
+
+  <!-- Bloomberg -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="BloombergTV.us">
+    <title>Market Coverage</title>
+    <desc>Business news and financial analysis.</desc>
+  </programme>
+
+  <!-- NASA TV -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="NASA.us">
+    <title>NASA Programming</title>
+    <desc>Space updates, mission coverage, and science features.</desc>
+  </programme>
+
+  <!-- Classic Arts Showcase -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="ClassicArts.us">
+    <title>Arts Showcase</title>
+    <desc>Classical music, dance, and performance highlights.</desc>
+  </programme>
+
+  <!-- Smithsonian -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="Smithsonian.us">
+    <title>Documentary Block</title>
+    <desc>Science, history, and culture programming.</desc>
+  </programme>
+
+  <!-- Xplore -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="Xplore.us">
+    <title>Adventure Series</title>
+    <desc>Travel, exploration, and outdoor programming.</desc>
+  </programme>
+
+  <!-- FilmRise Sci-Fi -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="FilmRiseSciFi.us">
+    <title>Sci-Fi Feature</title>
+    <desc>Classic and modern science fiction programming.</desc>
+  </programme>
+
+  <!-- Dust -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="Dust.us">
+    <title>Sci-Fi Shorts</title>
+    <desc>Short-form science fiction films.</desc>
+  </programme>
+
+  <!-- TG4 -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="TG4.ie">
+    <title>Gaelic Programming</title>
+    <desc>Irish-language entertainment and culture.</desc>
+  </programme>
+
+  <!-- Oireachtas -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="Oireachtas.ie">
+    <title>Parliamentary Coverage</title>
+    <desc>Live sessions and political programming.</desc>
+  </programme>
+
+  <!-- DW -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="DW.de">
+    <title>Nachrichten</title>
+    <desc>German-language news and reports.</desc>
+  </programme>
+
+  <!-- France 24 -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="France24.fr">
+    <title>Journal</title>
+    <desc>French-language international news.</desc>
+  </programme>
+
+  <!-- Rai News 24 -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="RaiNews24.it">
+    <title>Notizie</title>
+    <desc>Italian news and updates.</desc>
+  </programme>
+
+  <!-- Suspilne -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="Suspilne.ua">
+    <title>Новини</title>
+    <desc>Ukrainian news programming.</desc>
+  </programme>
+
+  <!-- NHK World -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="NHKWorld.jp">
+    <title>NHK World News</title>
+    <desc>International news from Japan.</desc>
+  </programme>
+
+  <!-- WWOZ -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="WWOZ.us">
+    <title>Music Hour</title>
+    <desc>New Orleans jazz, funk, and blues.</desc>
+  </programme>
+
+  <!-- Relix -->
+  <programme start="20260213120000 +0000" stop="20260213140000 +0000" channel="Relix.us">
+    <title>Jam Bands Live</title>
+    <desc>Live performances and festival content.</desc>
+  </programme>
+
+</tv>
