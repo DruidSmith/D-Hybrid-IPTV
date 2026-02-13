@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="D Hybrid IPTV" generator-info-url="https://github.com/DruidSmith/D-Hybrid-IPTV">
+
+  <!-- ========================= -->
+  <!-- CHANNEL DEFINITIONS       -->
+  <!-- ========================= -->
+
+  <channel id="ABCNewsLive.us"><display-name>ABC News Live</display-name></channel>
+  <channel id="CBSNews.us"><display-name>CBS News</display-name></channel>
+  <channel id="NBCNewsNow.us"><display-name>NBC News Now</display-name></channel>
+  <channel id="ScrippsNews.us"><display-name>Scripps News</display-name></channel>
+  <channel id="BloombergTV.us"><display-name>Bloomberg TV</display-name></channel>
+  <channel id="NASA.us"><display-name>NASA TV</display-name></channel>
+
+  <channel id="ClassicArts.us"><display-name>Classic Arts Showcase</display-name></channel>
+  <channel id="Smithsonian.us"><display-name>Smithsonian Channel (FAST)</display-name></channel>
+  <channel id="Xplore.us"><display-name>Xplore</display-name></channel>
+
+  <channel id="FilmRiseSciFi.us"><display-name>FilmRise Sci-Fi</display-name></channel>
+  <channel id="Dust.us"><display-name>Dust</display-name></channel>
+
+  <channel id="TG4.ie"><display-name>TG4</display-name></channel>
+  <channel id="Oireachtas.ie"><display-name>Oireachtas TV</display-name></channel>
+
+  <channel id="DW.de"><display-name>DW Deutsch</display-name></channel>
+  <channel id="France24.fr"><display-name>France 24 FR</display-name></channel>
+  <channel id="RaiNews24.it"><display-name>Rai News 24</display-name></channel>
+  <channel id="Suspilne.ua"><display-name>Suspilne News</display-name></channel>
+  <channel id="NHKWorld.jp"><display-name>NHK World Japan</display-name>

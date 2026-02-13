@@ -1,0 +1,101 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/DruidSmith/D-Hybrid-IPTV/main/d-hybrid.xml" name="D Hybrid IPTV"
+
+###############################
+# 🇺🇸 UNITED STATES — NEWS
+###############################
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" tvg-logo="logos/abcnews_dark.png" group-title="US News",ABC News Live
+https://abcnews.go.com/live/video
+
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-logo="logos/cbsnews_dark.png" group-title="US News",CBS News
+https://cbsn-us.cbsnews.com/live/cbsn-us/stream.m3u8
+
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-name="NBC News Now" tvg-logo="logos/nbcnews_dark.png" group-title="US News",NBC News Now
+https://nbcnewsnow-lh.akamaihd.net/i/nbcnewsnow_1@122427/master.m3u8
+
+#EXTINF:-1 tvg-id="ScrippsNews.us" tvg-name="Scripps News" tvg-logo="logos/scripps_dark.png" group-title="US News",Scripps News
+https://scrippsnews-us-scrippsnews.fastly.cdn.rubiconproject.com/out/v1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="logos/bloomberg_dark.png" group-title="US News",Bloomberg TV
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" tvg-logo="logos/nasa_dark.png" group-title="US News",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
+
+###############################
+# 🇺🇸 UNITED STATES — ARTS & SCIENCE
+###############################
+
+#EXTINF:-1 tvg-id="ClassicArts.us" tvg-name="Classic Arts Showcase" tvg-logo="logos/classicarts_dark.png" group-title="US Arts & Science",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+
+#EXTINF:-1 tvg-id="Smithsonian.us" tvg-name="Smithsonian Channel" tvg-logo="logos/smithsonian_dark.png" group-title="US Arts & Science",Smithsonian Channel (FAST)
+https://smithsonianchannel-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Xplore.us" tvg-name="Xplore" tvg-logo="logos/xplore_dark.png" group-title="US Arts & Science",Xplore
+https://xplore-roku.amagi.tv/playlist.m3u8
+
+###############################
+# 🇺🇸 UNITED STATES — MOVIES & SCI-FI
+###############################
+
+#EXTINF:-1 tvg-id="FilmRiseSciFi.us" tvg-name="FilmRise Sci-Fi" tvg-logo="logos/filmrise_scifi_dark.png" group-title="US Movies & Sci-Fi",FilmRise Sci-Fi
+https://filmrise-sci-fi-1.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dust.us" tvg-name="Dust" tvg-logo="logos/dust_dark.png" group-title="US Movies & Sci-Fi",Dust
+https://dust-roku.amagi.tv/playlist.m3u8
+
+###############################
+# 🏴 GAELIC / CELTIC
+###############################
+
+#EXTINF:-1 tvg-id="TG4.ie" tvg-name="TG4" tvg-logo="logos/tg4_dark.png" group-title="Gaelic / Celtic",TG4
+https://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:-1 tvg-id="Oireachtas.ie" tvg-name="Oireachtas TV" tvg-logo="logos/oireachtas_dark.png" group-title="Gaelic / Celtic",Oireachtas TV
+https://live.oireachtas.ie/hls/live.m3u8
+
+###############################
+# 🌍 INTERNATIONAL — GERMAN
+###############################
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW Deutsch" tvg-logo="logos/dw_dark.png" group-title="International - German",DW Deutsch
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+
+###############################
+# 🌍 INTERNATIONAL — FRENCH
+###############################
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FR" tvg-logo="logos/france24_dark.png" group-title="International - French",France 24 FR
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+###############################
+# 🌍 INTERNATIONAL — ITALIAN
+###############################
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="logos/rainews_dark.png" group-title="International - Italian",Rai News 24
+https://rainews-live.akamaized.net/hls/live/2007267/rainews/playlist.m3u8
+
+###############################
+# 🌍 INTERNATIONAL — UKRAINIAN
+###############################
+
+#EXTINF:-1 tvg-id="Suspilne.ua" tvg-name="Suspilne News" tvg-logo="logos/suspilne_dark.png" group-title="International - Ukrainian",Suspilne News
+https://streamcdn.suspilne.media/live/suspilne_ukraine/index.m3u8
+
+###############################
+# 🌍 INTERNATIONAL — JAPANESE
+###############################
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="logos/nhk_dark.png" group-title="International - Japanese",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263942/live.m3u8
+
+###############################
+# 🎵 MUSIC — DC / NEW ORLEANS / BLUES / JAM BANDS
+###############################
+
+#EXTINF:-1 tvg-id="WWOZ.us" tvg-name="WWOZ" tvg-logo="logos/wwoz_dark.png" group-title="Music - New Orleans",WWOZ
+https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
+
+#EXTINF:-1 tvg-id="Relix.us" tvg-name="Relix Channel" tvg-logo="logos/relix_dark.png" group-title="Music - Jam Bands",Relix Channel
+https://relix-roku.amagi.tv/playlist.m3u8
