@@ -98,4 +98,82 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263942/live.m3u8
 https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
 
 #EXTINF:-1 tvg-id="Relix.us" tvg-name="Relix Channel" tvg-logo="logos/relix_dark.png" group-title="Music - Jam Bands",Relix Channel
-https://relix-roku.amagi.tv/playlist.m3u8
+https://relix-roku.amagi.tv/playlist.m3u8#EXTM3U x-tvg-url="https://raw.githubusercontent.com/DruidSmith/D-Hybrid-IPTV/main/d-hybrid.xml" name="D Hybrid IPTV"
+
+###############################
+# 🇺🇸 UNITED STATES — NEWS
+###############################
+
+#EXTINF:-1 tvg-id="DWEnglish.int" tvg-name="DW English" tvg-logo="logos/dw_dark.png" group-title="US News",DW English
+https://dwamdstream103.akamaized.net/hls/live/2015531/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-id="France24EN.int" tvg-name="France 24 English" tvg-logo="logos/france24_dark.png" group-title="US News",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="logos/nhk_dark.png" group-title="US News",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263942/live.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="logos/bloomberg_dark.png" group-title="US News",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" tvg-logo="logos/nasa_dark.png" group-title="US News",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1/master.m3u8
+
+###############################
+# 🇺🇸 UNITED STATES — ARTS & SCIENCE
+###############################
+
+#EXTINF:-1 tvg-id="ClassicArts.us" tvg-name="Classic Arts Showcase" tvg-logo="logos/classicarts_dark.png" group-title="US Arts & Science",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+
+#EXTINF:-1 tvg-id="Xplore.us" tvg-name="Xplore" tvg-logo="logos/xplore_dark.png" group-title="US Arts & Science",Xplore
+https://xplore-roku.amagi.tv/playlist.m3u8
+
+###############################
+# 🇺🇸 UNITED STATES — MOVIES & SCI-FI
+###############################
+
+#EXTINF:-1 tvg-id="RetroSciFi.us" tvg-name="Retro Sci-Fi" tvg-logo="logos/retroscifi_dark.png" group-title="US Movies & Sci-Fi",Retro Sci-Fi
+https://dai.google.com/linear/hls/event/retro_scifi/master.m3u8
+
+#EXTINF:-1 tvg-id="SpaceChannel.us" tvg-name="Space Channel" tvg-logo="logos/space_dark.png" group-title="US Movies & Sci-Fi",Space Channel
+https://dai.google.com/linear/hls/event/space_channel/master.m3u8
+
+###############################
+# 🏴 GAELIC / CELTIC
+###############################
+
+#EXTINF:-1 tvg-id="TG4.ie" tvg-name="TG4" tvg-logo="logos/tg4_dark.png" group-title="Gaelic / Celtic",TG4
+https://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:-1 tvg-id="Oireachtas.ie" tvg-name="Oireachtas TV" tvg-logo="logos/oireachtas_dark.png" group-title="Gaelic / Celtic",Oireachtas TV
+https://live.oireachtas.ie/hls/live.m3u8
+
+###############################
+# 🌍 INTERNATIONAL
+###############################
+
+#EXTINF:-1 tvg-id="DW.de" tvg-name="DW Deutsch" tvg-logo="logos/dw_dark.png" group-title="International - German",DW Deutsch
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FR" tvg-logo="logos/france24_dark.png" group-title="International - French",France 24 FR
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="logos/rainews_dark.png" group-title="International - Italian",Rai News 24
+https://rainews-live.akamaized.net/hls/live/2007267/rainews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Suspilne.ua" tvg-name="Suspilne News" tvg-logo="logos/suspilne_dark.png" group-title="International - Ukrainian",Suspilne News
+https://streamcdn.suspilne.media/live/suspilne_ukraine/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKWorld.jp" tvg-name="NHK World Japan" tvg-logo="logos/nhk_dark.png" group-title="International - Japanese",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263942/live.m3u8
+
+###############################
+# 🎵 MUSIC
+###############################
+
+#EXTINF:-1 tvg-id="WWOZ.us" tvg-name="WWOZ" tvg-logo="logos/wwoz_dark.png" group-title="Music - New Orleans",WWOZ
+https://wwoz-sc.streamguys1.com/wwoz-hi.mp3
+
+#EXTINF:-1 tvg-id="QelloFree.us" tvg-name="Qello Concerts Free" tvg-logo="logos/qello_dark.png" group-title="Music - Jam Bands",Qello Concerts Free
+https://dai.google.com/linear/hls/event/qello_free/master.m3u8
